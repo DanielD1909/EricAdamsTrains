@@ -1,0 +1,21 @@
+{
+    "id": "danield1909.EricAdamsTrains",
+    "name": "Eric Adams Challenge Trains",
+    "description": "This is a train pack mod by DanielD1909 which adds 38 trains needed for the Eric Adams Challenge.",
+    "version": "1.0.0",
+    "author": {
+		"name": "DanielD1909",
+		"url": "https://github.com/DanielD1909"
+	},
+    "main": "index.js",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/DanielD1909/EricAdamsChallenge"
+	},
+	"keywords": [
+		"subway-builder",
+		"mod"
+	],
+	"subwayBuilderVersion": ">=1.0.0"
+}
